@@ -7,10 +7,16 @@ body {
 }
 
 a {
-  color: inherit;
+  color: rgb(0, 77, 47);
+}
+a:hover{
   text-decoration: none;
 }
-
 * {
   box-sizing: border-box;
+}
+
+img{
+  max-width : 100%;
+  display : block;
 }
